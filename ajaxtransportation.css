@@ -1,0 +1,14 @@
+.banner {
+  width: 500px;
+  margin: auto;
+  line-height: 1.5em;
+}
+
+.bottomBanner {
+  padding-left: 5%;
+  margin: 30px 0;
+}
+
+.button {
+  font-size: 5em;
+}
